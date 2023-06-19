@@ -1,7 +1,7 @@
 print("Before")
 
 try:
-    #4 / 0
+    4 / 0
     #print(age)
 #except NameError as e:
     print("This was a name issue")
